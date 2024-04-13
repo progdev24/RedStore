@@ -514,13 +514,3 @@ form a{
         font-size: small;
     }
 }
-
-a:focus{
-    outline: none;
-}
-img:focus{
-    outline: none;
-}
-.copyright{
-    text-align: left;
-}
