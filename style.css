@@ -514,3 +514,7 @@ form a{
         font-size: small;
     }
 }
+
+a:focus{
+    outline: none;
+}
